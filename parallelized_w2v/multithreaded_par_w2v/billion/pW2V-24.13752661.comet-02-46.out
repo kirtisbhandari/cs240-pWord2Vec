@@ -1,0 +1,9 @@
+MPI_THREAD_MULTIPLE 3MPI multiple thread is NOT provided!!! (0 != 3)
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 4601 RUNNING AT comet-02-46
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
