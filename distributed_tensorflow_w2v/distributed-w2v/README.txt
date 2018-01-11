@@ -12,11 +12,11 @@ $kubectl get pods
 
 #### Copy script to each pod
 
-$kubectl -cp word2vector.py <pod_id>:<path>
+$kubectl cp word2vector.py <pod_id>:<path>
 
 #### Copy data to each pod
 
-$kubectl -cp ../data/text8.zip <pod_id>:tmp/.
+$kubectl cp ../data/text8.zip <pod_id>:tmp/.
 
 #### Run the script on *each* pod and collect result in log file
 
